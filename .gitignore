@@ -1,0 +1,4 @@
+.env
+addons/*
+!addons/README.md
+__pycache__/
